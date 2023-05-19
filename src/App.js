@@ -5,10 +5,8 @@ function App() {
   return (
     <> 
     <div>
-      <h1>Hello!</h1>
+      <h1>Travel Journal!</h1>
       <CountriesContainer />
-    
-  
     </div>
     </>
   );
